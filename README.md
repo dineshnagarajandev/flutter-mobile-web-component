@@ -1,16 +1,20 @@
 # flutter_mobile_web_component
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A new Flutter project which utilise flutter from beta channel to make sure the app run for web. 
 
-A few resources to get you started if this is your first Flutter project:
+# Note
+Ensure to be in beta channel to experience web version of the project.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# iOS 
+<img src="https://github.com/dineshnagarajandev/flutter-mobile-web-component/blob/main/readmeneeds/FeedbackForm-iOS.gif" width="200">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# WEB
+<img src="https://github.com/dineshnagarajandev/flutter-mobile-web-component/blob/main/readmeneeds/FeedbackForm-WEB.gif" width="800">
+
+# Android
+
+1. Key board customisation for mobile number, email and picker.
+2. Validation for fields.
+3. Handled keyboard behaviour for better usability in mobile.
