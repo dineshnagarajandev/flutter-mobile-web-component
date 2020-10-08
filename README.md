@@ -21,7 +21,7 @@ Ensure to be in beta channel to experience web version of the project.
   [INSTALL APK FROM HERE](https://github.com/dineshnagarajandev/flutter-mobile-web-component/blob/main/readmeneeds/app-release.apk)
 
 
-## Much needed tweeks for better usability in mobile
+## Essential tweaks for better usability in mobile
 1. Key board customisation for mobile number, email and picker.
 2. Validation for fields.
 3. Handled keyboard behaviour for better usability in mobile.
